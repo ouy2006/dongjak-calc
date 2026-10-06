@@ -7,3 +7,6 @@ $RECYCLE.BIN/
 prices - 복사본.js
 prices*복사본*.js
 *.bak
+
+# 설치 프로그램 (프로젝트 파일 아님)
+*.exe
